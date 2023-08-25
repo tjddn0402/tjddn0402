@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjddn0402)](https://solved.ac/tjddn0402)
+
+![tjddn0402's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjddn0402&show_icons=true&theme=dark)
